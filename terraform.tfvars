@@ -1,0 +1,1 @@
+bucket_name = "vishal-terraform-website-demo-12345666"
