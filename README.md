@@ -44,7 +44,7 @@ terraform apply
 
 🌐 Output
 
-Website URL will be displayed after deployment.
+vishal-terraform-website-demo-12345666.s3-website.ap-south-1.amazonaws.com
 
 
 🧠 Learnings
